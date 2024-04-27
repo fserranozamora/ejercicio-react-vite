@@ -1,0 +1,19 @@
+.eqvista{
+    width: 500px;
+    border-radius: 20px;
+    background-color: #33CC00;
+    box-shadow: 2px 2px 5px;
+    padding: 10px;
+    text-align: center;
+    border: 2px coral;
+    color: black;
+    margin-left: 400px;
+}
+
+.eqvista h1{
+    color:#060153;
+}
+
+.eqvista img{
+    max-width: 50%;
+}
